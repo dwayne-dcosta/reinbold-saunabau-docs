@@ -86,7 +86,10 @@ The intake suite connects conversational frontend interfaces directly into back-
                                        └─────────────────────────┘
 ```
 
-📁 Repository Structure
+---
+
+## 📁 Repository Structure
+
 ```
 reinbold-saunabau-docs/
 ├── _config.yml              # Jekyll configuration (Just the Docs theme & Dark Mode)
@@ -99,7 +102,9 @@ reinbold-saunabau-docs/
     └── make-integration.md  # Make.com & Cal.com Webhook Integration Guide (nav_order: 4)
 ```
 
-🚀 Deployment & GitHub Pages Configuration
+---
+
+## 🚀 Deployment & GitHub Pages Configuration
 
 ```
 title: AI Assistant Suite 
@@ -112,3 +117,52 @@ search_enabled: true
 # Lock global display to Dark Mode
 color_scheme: dark
 ```
+
+---
+
+## 📄 Data Handoff Payload Schema
+
+```
+{
+  "client_info": {
+    "full_name": "Jane Doe",
+    "email": "jane.doe@example.com"
+  },
+  "room_specifications": {
+    "scenario_type": "Configurator",
+    "width_cm": 220,
+    "depth_cm": 200,
+    "height_cm": 210,
+    "attic_slope": false
+  },
+  "sauna_preferences": {
+    "wood_type": "57mm Solid Wood Standard",
+    "heater_type": "Bio-Combi",
+    "glass_elements": true
+  },
+  "verification": {
+    "site_inspection_required": true,
+    "disclaimer": "Maße sind bauseits zu prüfen"
+  }
+}
+```
+
+---
+
+## 🔒 Privacy & Compliance
+
+To comply with OpenAI Action requirements and European data privacy guidelines (GDPR), the endpoint privacy policy is exposed at:
+
+https://dwayne-dcosta.github.io/reinbold-saunabau-docs/privacy/
+
+No personally identifiable information (PII) processed by the AI Assistant is retained within the model's chat history after session execution. All client details are forwarded immediately to secure backend storage.
+
+---
+
+## 🛠 Maintainer
+
+AI Solutions Architecture & Integration: Dwayne D'costa
+
+Client: Reinbold Saunabau
+
+Repository: dwayne-dcosta/reinbold-saunabau-docs
