@@ -13,6 +13,7 @@ Welcome to the official technical documentation repository for the **Reinbold Sa
 - [Deployment & GitHub Pages Configuration](#-deployment--github-pages-configuration)
 - [Data Handoff Payload Schema](#-data-handoff-payload-schema)
 - [Privacy & Compliance](#-privacy--compliance)
+- [Maintainer](#-maintainer)
 
 ---
 
