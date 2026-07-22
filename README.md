@@ -98,3 +98,17 @@ reinbold-saunabau-docs/
     ├── api-spec.md          # OpenAPI 3.0 / JSON Handoff Specification (nav_order: 3)
     └── make-integration.md  # Make.com & Cal.com Webhook Integration Guide (nav_order: 4)
 ```
+
+🚀 Deployment & GitHub Pages Configuration
+
+```
+title: AI Assistant Suite 
+description: Technical Guides, Client Onboarding & Compliance for AI Configurator & Spatial Planning.
+remote_theme: just-the-docs/just-the-docs
+
+# Enable native left-sidebar search
+search_enabled: true
+
+# Lock global display to Dark Mode
+color_scheme: dark
+```
