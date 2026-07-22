@@ -1,15 +1,6 @@
 title: Reinbold Saunabau AI Assistant Suite
-description: Public documentation, technical guides, compliance, and API specifications.
-theme: jekyll-theme-primer
+description: Technical Guides, Client Onboarding & Compliance for AI Configurator & Spatial Planning.
+remote_theme: just-the-docs/just-the-docs
 
-# Site Settings
-markdown: kramdown
-show_downloads: false
-
-# Navigation / Header links
-header_pages:
-  - index.md
-  - docs/overview.md
-  - docs/make-integration.md
-  - docs/api-spec.md
-  - privacy.md
+# Enable the built-in search bar in the left navigation
+search_enabled: true
