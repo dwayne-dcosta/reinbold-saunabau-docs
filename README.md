@@ -84,6 +84,7 @@ The intake suite connects conversational frontend interfaces directly into back-
                                        │ Consultation Booked     │
                                        │ Updates Row Status      │
                                        └─────────────────────────┘
+```
 
 📁 Repository Structure
 
