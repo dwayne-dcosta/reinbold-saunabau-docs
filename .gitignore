@@ -1,0 +1,33 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Obsidian Local Settings & Cache
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/
+.obsidian/cache
+
+# Editor & IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jekyll & Local Build Caches (GitHub Pages)
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+node_modules/
+
+# Environment Variables & Private Notes
+*.env
+*.log
+private/
+drafts/
