@@ -1,3 +1,11 @@
+---
+layout: default
+title: Privacy Policy
+nav_order: 5
+permalink: /privacy/
+---
+
+
 # Privacy Policy for Reinbold Saunabau Custom Assistant
 
 **Last updated:** July 22, 2026
