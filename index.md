@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+nav_order: 1
+---
 
 # Reinbold Saunabau AI Assistant Suite: Getting Started Guide
 
