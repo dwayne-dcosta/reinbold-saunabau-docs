@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: default
 title: API Specification
-permalink: /docs/api-spec/
+nav_order: 3
 ---
 
 # OpenAPI Payload Specification
