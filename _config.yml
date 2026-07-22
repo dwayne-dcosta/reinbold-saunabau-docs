@@ -1,6 +1,9 @@
-title: Reinbold Saunabau AI Assistant Suite
+title: AI Assistant Suite
 description: Technical Guides, Client Onboarding & Compliance for AI Configurator & Spatial Planning.
 remote_theme: just-the-docs/just-the-docs
 
 # Enable the built-in search bar in the left navigation
 search_enabled: true
+
+# Lock the site into Dark Mode (Black background, white text)
+color_scheme: dark
