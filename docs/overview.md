@@ -1,3 +1,10 @@
+---
+layout: default
+title: System Architecture
+nav_order: 2
+---
+
+
 # System Architecture & Overview
 
 This document outlines the operational logic and architectural safeguards governing the **Reinbold Saunabau Custom AI Assistant Suite**.
