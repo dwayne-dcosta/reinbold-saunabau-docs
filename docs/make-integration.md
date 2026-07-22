@@ -1,3 +1,10 @@
+---
+layout: default
+title: Webhook Integration
+nav_order: 4
+---
+
+
 # Webhook & Automation Integration Guide
 
 This guide details the integration pipeline connecting the **Custom GPT / Assistant API** to external CRM and scheduling tools using **Make.com**.
