@@ -87,7 +87,7 @@ The intake suite connects conversational frontend interfaces directly into back-
 ```
 
 📁 Repository Structure
-
+```
 reinbold-saunabau-docs/
 ├── _config.yml              # Jekyll configuration (Just the Docs theme & Dark Mode)
 ├── index.md                 # Homepage & Getting Started Guide (nav_order: 1)
@@ -97,3 +97,4 @@ reinbold-saunabau-docs/
     ├── overview.md          # Detailed Architecture & VETO Safeguards (nav_order: 2)
     ├── api-spec.md          # OpenAPI 3.0 / JSON Handoff Specification (nav_order: 3)
     └── make-integration.md  # Make.com & Cal.com Webhook Integration Guide (nav_order: 4)
+```
