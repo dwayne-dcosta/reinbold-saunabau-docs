@@ -154,7 +154,7 @@ color_scheme: dark
 
 To comply with OpenAI Action requirements and European data privacy guidelines (GDPR), the endpoint privacy policy is exposed at:
 
-https://dwayne-dcosta.github.io/reinbold-saunabau-docs/privacy/
+https://docs.reinbold-saunabau.de/privacy/
 
 No personally identifiable information (PII) processed by the AI Assistant is retained within the model's chat history after session execution. All client details are forwarded immediately to secure backend storage.
 
