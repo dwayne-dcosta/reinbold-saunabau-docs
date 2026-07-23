@@ -93,7 +93,7 @@ The intake suite connects conversational frontend interfaces directly into back-
 
 ```
 reinbold-saunabau-docs/
-├── _config.yml              # Jekyll configuration (Just the Docs theme & Dark Mode)
+├── _config.yml              # Jekyll configuration (Just the Docs theme & Light Mode)
 ├── index.md                 # Homepage & Getting Started Guide (nav_order: 1)
 ├── Privacy_Policy.md        # Public Privacy Policy for GPT Actions (nav_order: 5)
 ├── README.md                # Main repository manual (This file)
