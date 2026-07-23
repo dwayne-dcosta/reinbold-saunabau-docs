@@ -7,3 +7,6 @@ search_enabled: true
 
 # Lock the site into Dark Mode (Black background, white text)
 color_scheme: light
+
+# In _config.yml
+og_image: /assets/images/social-preview.png
